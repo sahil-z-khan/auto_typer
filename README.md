@@ -1,7 +1,3 @@
-Here is a **more concise, clean, professional README**:
-
----
-
 # 📄 Auto Typer — Human-Like Typing Script
 
 A simple Python script that types text into any application (Word, Google Docs, Notes) with **human-like typing delays**.
@@ -75,8 +71,3 @@ human_type(TEXT_TO_TYPE, base_min=0.02, base_max=0.10)
 
 Lower values → faster typing
 Higher values → slower, more human-like
-
----
-
-That's it — clean, simple, and ready to use.
-If you'd like, I can also generate a minimal logo, a GUI version, or a CLI tool.
